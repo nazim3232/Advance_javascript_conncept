@@ -45,3 +45,8 @@ console.log("This is the ending of the closure in the javascript");
 console.log("This is the currying in the javascript");
 
 //f(a)(b)(c)
+
+//this concept is called the carrying in the javascript.
+//How to use apply bind and call in the javascript
+
+
