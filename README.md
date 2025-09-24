@@ -16,7 +16,7 @@ WeatherWizard is a sleek and simple weather forecasting app that provides real-t
 
 ## 🛠️ Installation
 
-```bash
+bash
 git clone https://github.com/yourusername/weatherwizard.git
 cd weatherwizard
 npm install
